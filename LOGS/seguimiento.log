@@ -1,0 +1,15 @@
+{'col0': 'zz', 'col1': 'tt', 'col2': 'oo', 'col3': '678'}
+Proceso finalizado exitosamente.
+{'col0': 'aa', 'col1': 'bb', 'col2': 'cc', 'col3': '123'}
+{'col0': 'xx', 'col1': 'yy', 'col2': 'zz', 'col3': '456'}
+{'col0': 'zz', 'col1': 'tt', 'col2': 'oo', 'col3': '678'}
+Proceso finalizado exitosamente.
+{'col0': 'aa', 'col1': 'bb', 'col2': 'cc', 'col3': '123'}
+{'col0': 'xx', 'col1': 'yy', 'col2': 'zz', 'col3': '456'}
+{'col0': 'zz', 'col1': 'tt', 'col2': 'oo', 'col3': '678'}
+Proceso finalizado exitosamente.
+{'col0': 'xx', 'col1': 'yy', 'col2': 'zz', 'col3': '456'}
+{'col0': 'aa', 'col1': 'bb', 'col2': 'cc', 'col3': '123'}
+{'col0': 'zz', 'col1': 'tt', 'col2': 'oo', 'col3': '678'}
+Proceso finalizado exitosamente.
+Error durante el proceso: [Errno 2] No such file or directory: '/Users/vivi/Documents/Python/FILES/datos.csv,'
