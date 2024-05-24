@@ -143,6 +143,7 @@ if __name__ == "__main__":
         else:
            raise ValueError("Opción no válida.")
     except Exception as e:
-        print("  ERROR:", e)
-        write_to_log(str(e))
+        msg="  ERROR: {0}".format(e) #TO-DO: Definir error 
+        print(msg)
+        write_to_log(msg)
 
